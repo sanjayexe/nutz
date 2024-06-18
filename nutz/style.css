@@ -1,0 +1,38 @@
+body{
+    background: linear-gradient(90deg, rgba(23, 16, 27, 0.8) 0%, rgba(43, 29, 50, 0.8) 68.09%, rgba(38, 26, 45, 0.8) 99.99%);
+    margin: 0%;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+    .candal-regular {
+        font-family: "Candal", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+}
+header{
+    background: linear-gradient(90deg, rgba(23, 16, 27, 0.8) 0%, rgba(43, 29, 50, 0.8) 68.09%, rgba(38, 26, 45, 0.8) 99.99%);
+
+}
+.icon{
+    background: rgba(58, 25, 89, 1);
+}
+.hr{
+    background: rgba(225, 41, 99, 1);
+    width: 31px;
+    height: 0.2rem;
+}
+.featured{
+    background: rgba(67, 57, 70, 0.5);
+}
+.event{
+    background: rgba(55, 36, 64, 1);
+}
+.event1{
+    color: rgba(55, 36, 64, 1);
+}
+.see{
+    color:rgba(137, 77, 158, 1);
+}
+.see1{
+    background: rgba(137, 77, 158, 1);
+
+}
